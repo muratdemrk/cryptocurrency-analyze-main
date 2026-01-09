@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Kripto Analiz Icon">
+  <title>Kripto Analiz Icon</title>
+
+  <g transform="translate(20,20)"
+     stroke="#E6EAF0"
+     stroke-width="7"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none">
+
+    <!-- coin -->
+    <circle cx="60" cy="60" r="44"/>
+    <circle cx="60" cy="60" r="26" opacity="0.6"/>
+
+    <!-- candlesticks -->
+    <line x1="40" y1="34" x2="40" y2="86"/>
+    <rect x="32" y="48" width="16" height="22" rx="2"
+          fill="#E6EAF0" opacity="0.35" stroke="none"/>
+
+    <line x1="64" y1="28" x2="64" y2="92"/>
+    <rect x="56" y="42" width="16" height="30" rx="2"
+          fill="#E6EAF0" opacity="0.35" stroke="none"/>
+
+    <line x1="88" y1="38" x2="88" y2="80"/>
+    <rect x="80" y="52" width="16" height="18" rx="2"
+          fill="#E6EAF0" opacity="0.35" stroke="none"/>
+
+    <!-- trend line -->
+    <path d="M18 96l22-20 18 10 22-28 28 18"/>
+  </g>
+</svg>

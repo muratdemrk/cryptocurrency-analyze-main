@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* global reset */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background-color: #020617; /* slate-950 */
+  color: white;
+  margin: 0;
+}
